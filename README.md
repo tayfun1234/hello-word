@@ -1,4 +1,4 @@
-# hello-word
+# 2 Hidden Layer Neural Networks
 
-Hi there,
-  This is the project that is Mathematics of Deep Learning.
+Hello,
+  This is the 2 hidden layer neural networks. Just using numpy, pandas and matplotlib libraries.
